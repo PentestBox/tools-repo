@@ -1,0 +1,66 @@
+Jun 21 19:27:40 ADITYA LOKI: LOKI - Starting Loki Scan on ADITYA
+Jun 21 19:27:40 ADITYA LOKI: Program should be run 'as Administrator' to ensure all access rights to process memory and file objects.
+Jun 21 19:27:40 ADITYA LOKI: Setting LOKI process with PID: 4760 to priority IDLE
+Jun 21 19:27:40 ADITYA LOKI: File Name Characteristics initialized with 229 regex patterns
+Jun 21 19:27:40 ADITYA LOKI: Malware Hashes initialized with 5337 hashes
+Jun 21 19:27:40 ADITYA LOKI: False Positive Hashes initialized with 19 hashes
+Jun 21 19:27:40 ADITYA LOKI: Initialized Yara rules from apt_alienspy_rat.yar
+Jun 21 19:27:40 ADITYA LOKI: Initialized Yara rules from apt_anthem_deeppanda.yar
+Jun 21 19:27:40 ADITYA LOKI: Initialized Yara rules from apt_apt17_malware.yar
+Jun 21 19:27:40 ADITYA LOKI: Initialized Yara rules from apt_apt28.yar
+Jun 21 19:27:40 ADITYA LOKI: Initialized Yara rules from apt_apt30_backspace.yar
+Jun 21 19:27:40 ADITYA LOKI: Initialized Yara rules from apt_backdoor_ssh_python.yar
+Jun 21 19:27:40 ADITYA LOKI: Initialized Yara rules from apt_backspace.yar
+Jun 21 19:27:40 ADITYA LOKI: Initialized Yara rules from apt_blackenergy_2.yar
+Jun 21 19:27:40 ADITYA LOKI: Initialized Yara rules from apt_blackenergy_installer.yar
+Jun 21 19:27:40 ADITYA LOKI: Initialized Yara rules from apt_casper.yar
+Jun 21 19:27:40 ADITYA LOKI: Initialized Yara rules from apt_coreimpact_agent.yar
+Jun 21 19:27:40 ADITYA LOKI: Initialized Yara rules from apt_fidelis_phishing_plain_sight.yar
+Jun 21 19:27:40 ADITYA LOKI: Initialized Yara rules from apt_hellsing_kaspersky.yar
+Jun 21 19:27:40 ADITYA LOKI: Initialized Yara rules from apt_kaspersky_duqu2.yar
+Jun 21 19:27:40 ADITYA LOKI: Initialized Yara rules from apt_miniasp.yar
+Jun 21 19:27:40 ADITYA LOKI: Initialized Yara rules from apt_naikon.yar
+Jun 21 19:27:41 ADITYA LOKI: Initialized Yara rules from apt_op_cleaver.yar
+Jun 21 19:27:41 ADITYA LOKI: Initialized Yara rules from apt_poisonivy.yar
+Jun 21 19:27:41 ADITYA LOKI: Initialized Yara rules from apt_poisonivy_gen3.yar
+Jun 21 19:27:41 ADITYA LOKI: Initialized Yara rules from apt_putterpanda.yar
+Jun 21 19:27:41 ADITYA LOKI: Initialized Yara rules from apt_scanbox_deeppanda.yar
+Jun 21 19:27:41 ADITYA LOKI: Initialized Yara rules from apt_shamoon.yar
+Jun 21 19:27:41 ADITYA LOKI: Initialized Yara rules from apt_skeletonkey.yar
+Jun 21 19:27:41 ADITYA LOKI: Initialized Yara rules from apt_snowglobe_babar.yar
+Jun 21 19:27:41 ADITYA LOKI: Initialized Yara rules from apt_volatile_cedar.yar
+Jun 21 19:27:41 ADITYA LOKI: Initialized Yara rules from apt_waterbug.yar
+Jun 21 19:27:41 ADITYA LOKI: Initialized Yara rules from apt_webshell_chinachopper.yar
+Jun 21 19:27:41 ADITYA LOKI: Initialized Yara rules from apt_woolengoldfish.yar
+Jun 21 19:27:41 ADITYA LOKI: Initialized Yara rules from crime_antifw_installrex.yar
+Jun 21 19:27:41 ADITYA LOKI: Initialized Yara rules from crime_buzus_softpulse.yar
+Jun 21 19:27:41 ADITYA LOKI: Initialized Yara rules from crime_cmstar.yar
+Jun 21 19:27:41 ADITYA LOKI: Initialized Yara rules from crime_cryptowall_svg.yar
+Jun 21 19:27:41 ADITYA LOKI: Initialized Yara rules from crime_dexter_trojan.yar
+Jun 21 19:27:41 ADITYA LOKI: Initialized Yara rules from crime_dridex_xml.yar
+Jun 21 19:27:41 ADITYA LOKI: Initialized Yara rules from crime_enfal.yar
+Jun 21 19:27:41 ADITYA LOKI: Initialized Yara rules from crime_kins_dropper.yar
+Jun 21 19:27:41 ADITYA LOKI: Initialized Yara rules from crime_kraken_bot1.yar
+Jun 21 19:27:41 ADITYA LOKI: Initialized Yara rules from crime_malumpos.yar
+Jun 21 19:27:41 ADITYA LOKI: Initialized Yara rules from crime_malware_generic.yar
+Jun 21 19:27:41 ADITYA LOKI: Initialized Yara rules from crime_mikey_trojan.yar
+Jun 21 19:27:41 ADITYA LOKI: Initialized Yara rules from crime_rombertik_carbongrabber.yar
+Jun 21 19:27:41 ADITYA LOKI: Initialized Yara rules from exploit_cve_2015_1674.yar
+Jun 21 19:27:41 ADITYA LOKI: Initialized Yara rules from exploit_cve_2015_1701.yar
+Jun 21 19:27:41 ADITYA LOKI: Initialized Yara rules from exploit_uac_elevators.yar
+Jun 21 19:27:41 ADITYA LOKI: Initialized Yara rules from general_cloaking.yar
+Jun 21 19:27:41 ADITYA LOKI: Initialized Yara rules from general_officemacros.yar
+Jun 21 19:27:41 ADITYA LOKI: Initialized Yara rules from generic_anomalies.yar
+Jun 21 19:27:41 ADITYA LOKI: Initialized Yara rules from generic_cryptors.yar
+Jun 21 19:27:41 ADITYA LOKI: Initialized Yara rules from generic_lsass_dump.yar
+Jun 21 19:27:41 ADITYA LOKI: Initialized Yara rules from pup_lightftp.yar
+Jun 21 19:27:41 ADITYA LOKI: Initialized Yara rules from spy_equation_fiveeyes.yar
+Jun 21 19:27:41 ADITYA LOKI: Initialized Yara rules from spy_querty_fiveeyes.yar
+Jun 21 19:27:41 ADITYA LOKI: Initialized Yara rules from spy_regin_fiveeyes.yar
+Jun 21 19:27:41 ADITYA LOKI: Initialized Yara rules from thor-hacktools.yar
+Jun 21 19:27:41 ADITYA LOKI: Initialized Yara rules from thor-webshells.yar
+Jun 21 19:27:41 ADITYA LOKI: Initialized Yara rules from thor_inverse_matches.yar
+Jun 21 19:27:41 ADITYA LOKI: Initialized Yara rules from threat_lenovo_superfish.yar
+Jun 21 19:27:41 ADITYA LOKI: Skipping process memory check. User has no admin rights.
+Jun 21 19:27:41 ADITYA LOKI: Scanning C:\PentestBox\config\ ...  
+Jun 21 19:27:44 ADITYA LOKI: SYSTEM SEEMS TO BE CLEAN.
