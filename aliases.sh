@@ -34,7 +34,7 @@ then
 	echo -e "\e[37mwpscan				WpScan"
 	echo -e "\e[35mxenotix				OWASP Xenotix XSS Exploit Framework"
 	echo -e "\e[36myasuo				Yasuo"
-	echo -e "\e[31mzaproxy				Zaproxy"
+	echo -e "\e[31mzapdirectory				Zaproxy- After zapdirectory type zap to open Zaproxy"
 	echo -en "\e[0m"
 	exit
 fi
@@ -85,7 +85,7 @@ then
 	echo -e "\e[32mrtgen			RainbowCrack"
 	echo -e "\e[32mrtsort			RainbowCrack"
 	echo -e "\e[34mthc-hydra		Thc Hydra"
-	echo -e "\e[37mzaproxy			Zaproxy"
+	echo -e "\e[37mzapdirectory			Zaproxy - After zapdirectory type zap to open Zaproxy"
 	echo -en "\e[0m"
 	exit
 fi
@@ -152,7 +152,7 @@ then
 	echo -e "\e[37mresponder		Responder"
 	echo -e "\e[35msslstrip		SSLStrip"
 	echo -e "\e[36mwireshark		Wireshark"
-	echo -e "\e[31mzaproxy			Zaproxy"
+	echo -e "\e[31mzapdirectory			Zaproxy - After zapdirectory type zap to open Zaproxy"
 	echo -en "\e[0m"
 	exit
 fi
